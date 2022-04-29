@@ -1,1 +1,1 @@
-"# feedforward_torch" 
+# Construindo uma Rede Neural Feed Forward para classificação de dígitos manuscritos com Pytorch
