@@ -1,1 +1,1 @@
-# Construindo uma Rede Neural Feed Forward para classificação de dígitos manuscritos com Pytorch
+# Rede Neural Feed Forward para classificação de dígitos manuscritos com Pytorch com Precisão de mais de 97%
